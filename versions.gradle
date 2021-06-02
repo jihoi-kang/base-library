@@ -56,7 +56,7 @@ ext {
                     lifecycle_livedata_ktx : "androidx.lifecycle:lifecycle-livedata-ktx:$versions.androidx.lifecycle_extensions",
                     core_ktx               : "androidx.core:core-ktx:$versions.androidx.core_ktx",
                     activity_ktx           : "androidx.activity:activity-ktx:$versions.androidx.activity_ktx",
-                    fragment_ktx           : "androidx.activity:fragment-ktx:$versions.androidx.fragment_ktx",
+                    fragment_ktx           : "androidx.fragment:fragment-ktx:$versions.androidx.fragment_ktx",
             ],
             library  : [
                     okhttp                    : "com.squareup.okhttp3:okhttp:$versions.okhttp",
