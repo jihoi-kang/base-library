@@ -92,6 +92,3 @@ dependencies {
     androidTestApi deps.test.runner
     androidTestApi deps.test.espresso_core
 }
-repositories {
-    mavenCentral()
-}
