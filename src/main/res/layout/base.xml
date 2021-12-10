@@ -7,6 +7,10 @@
             name="vm"
             type="com.base.library.ui.BaseViewModel" />
 
+        <variable
+            name="item"
+            type="Object" />
+
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
